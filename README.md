@@ -6,11 +6,13 @@
  <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
 </picture>
 
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhuniNew1&exclude_repo=github-readme-stats,GhuniNew1.github.io&show_icons=true&theme=tokyonight&hide_progress=true)
+-->
 
-[![GhniNew 's github stats](https://github-readme-stats.vercel.app/api?username=GhuniNew1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+![GhuniNew1's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhuniNew1&show_icons=true&theme=radical)
 
 <!-- ![metrics](./github-metrics.svg) -->
-
 
 **GhuniNew1/GhuniNew1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
