@@ -1,0 +1,30 @@
+services:
+  pihole:
+    image: pihole/pihole:2022.12.1
+    networks:
+      qnet-network:
+        ipv4_address: ${QNET_STATIC_IP}
+    environment:
+      WEBPASSWORD: ${WEB_PASSWORD}
+      TZ: ${TZ}
+    volumes:
+      - etc-pihole:/etc/pihole
+      - etc-dnsmasq.d:/etc/dnsmasq.d
+    restart: unless-stopped
+
+networks:
+  qnet-network:
+    driver_opts:
+      iface: ${QNET_INTERFACE}
+    driver: qnet
+    ipam:
+      driver: qnet
+      options:
+        iface: ${QNET_INTERFACE}
+      config:
+        - subnet: ${QNET_SUBNET}
+          gateway: ${QNET_GATEWAY}
+
+volumes:
+  etc-pihole:
+  etc-dnsmasq.d:
