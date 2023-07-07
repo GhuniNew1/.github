@@ -11,6 +11,7 @@
 -->
 
 ![GhuniNew1's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhuniNew1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhuniNew\&layout=compact)
 
 <!-- ![metrics](./github-metrics.svg) -->
 
