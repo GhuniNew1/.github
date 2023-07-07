@@ -10,8 +10,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhuniNew1&exclude_repo=github-readme-stats,GhuniNew1.github.io&show_icons=true&theme=tokyonight&hide_progress=true)
 -->
 
-![GhuniNew1's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhuniNew1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhuniNew1\&layout=compact)
+![GhuniNew1's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhuniNew1&show_icons=false&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhuniNew1\&layout=compact&show_icons=false&theme=radical)
 
 <!-- ![metrics](./github-metrics.svg) -->
 
