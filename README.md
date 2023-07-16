@@ -6,6 +6,8 @@
  <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
 </picture>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/GhuniNew1/GhuniNew1) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/GhuniNew1/GhuniNew1)
+ ![Website](https://img.shields.io/website?url=https%3A%2F%2Fsky.bigbrain-studio.com%2Flogin)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhuniNew1&exclude_repo=github-readme-stats,GhuniNew1.github.io&show_icons=true&theme=tokyonight&hide_progress=true)
 -->
