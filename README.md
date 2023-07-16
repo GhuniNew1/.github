@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg"
-        height="auto">
-</p>
-<p align="center">
     <a href="" alt="https://github.com/GhuniNew1">
         <img src="https://img.shields.io/badge/-@GhuniNew1-%23181717?style=flat&logo=github" /></a>
     <a href="mailto:aakanun43@hmail.com" alt="">
@@ -13,6 +9,10 @@
         <img src="https://img.shields.io/github/directory-file-count/GhuniNew1/GhuniNew1" /></a>
     <a href="https://sky.bigbrain-studio.com" alt="">
         <img src="https://img.shields.io/website?up_message=sky.bigbrain-studio.com&url=https%3A%2F%2Fsky.bigbrain-studio.com%2Flogin" /></a>
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg"
+        height="auto">
 </p>
 
 ***
