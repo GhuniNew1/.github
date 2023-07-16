@@ -3,16 +3,19 @@
         height="auto">
 </p>
 <p align="center">
-    <a href="https://github.com/badges/shields/GhuniNew1/contributors" alt="">
+    <a href="" alt="https://github.com/GhuniNew1">
+        <img src="https://img.shields.io/badge/-@GhuniNew1-%23181717?style=flat&logo=github" /></a>
+    <a href="mailto:aakanun43@hmail.com" alt="">
+        <img src="https://img.shields.io/badge/-aakanun43@hmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aakanun43@hmail.com" /></a>
+    <a href="https://github.com/badges/GhuniNew1" alt="">
         <img src="https://img.shields.io/github/repo-size/GhuniNew1/GhuniNew1" /></a>
     <a href="https://img.shields.io/backers/GhuniNew1" alt="">
         <img src="https://img.shields.io/github/directory-file-count/GhuniNew1/GhuniNew1" /></a>
-    <a href="" alt="">
-        <img src="https://img.shields.io/website?url=https%3A%2F%2Fsky.bigbrain-studio.com%2Flogin" /></a>
+    <a href="https://sky.bigbrain-studio.com" alt="">
+        <img src="https://img.shields.io/website?up_message=sky.bigbrain-studio.com&url=https%3A%2F%2Fsky.bigbrain-studio.com%2Flogin" /></a>
 </p>
 
 
-[![GitHub Badge](https://img.shields.io/badge/-@GhuniNew1-%23181717?style=flat&logo=github)](https://github.com/GhuniNew1) [![Gmail Badge](https://img.shields.io/badge/-aakanun43@hmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aakanun43@hmail.com)](mailto:aakanun43@hmail.com) [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat&up_message=sky.bigbrain-studio.com&url=http%3A%2F%2Fsky.bigbrain-studio.com%2F)](https://sky.bigbrain-studio.com) 
 <!--
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
