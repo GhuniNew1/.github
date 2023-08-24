@@ -1,17 +1,21 @@
 {
-    "name": "GNEW",
-    "short_name": "",
+    "name": "BBS Web",
     "start_url": "/",
+    "short_name": "GNEW",
+    "scope": "/",
+    "description": "@GhuniNew",
     "icons": [
         {
             "src": "https://raw.githubusercontent.com/ghuninew1/ghuninew1/main/img/favicon.png",
-            "sizes": "any",
+            "sizes": "48x48",
             "type": "image/png"
         },
         {
             "src": "https://raw.githubusercontent.com/ghuninew1/ghuninew1/main/img/favicon.ico",
-            "sizes": "any",
-            "type": "image/x-icon"
+            "sizes": "40x40",
+            "type": "image/x-icon",
+            "density": "4.0",
+            "purpose": "maskable"
         }
     ],
     "theme_color": "#000000",
