@@ -1,0 +1,20 @@
+{
+    "name": "GNEW",
+    "short_name": "",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "https://raw.githubusercontent.com/ghuninew1/ghuninew1/main/img/favicon.png",
+            "sizes": "any",
+            "type": "image/png"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/ghuninew1/ghuninew1/main/img/favicon.ico",
+            "sizes": "any",
+            "type": "image/x-icon"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone"
+}
