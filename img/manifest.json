@@ -1,8 +1,6 @@
 {
     "name": "GNEW Dev",
-    "start_url": ".",
     "short_name": "GNEW",
-    "scope": ".",
     "description": "@GhuniNew",
     "icons": [
         {
